@@ -8,6 +8,12 @@ Local:
 https://www.evernote.com/l/AFO23idbWNxEY5BqtnMIp8KTNKCPnw8Yx6g
 
 
+<h2>HTTP通信の実装</h2>
+参考：
+https://www.haneca.net/react-http-messaging/
+
+
+
 
 
 
