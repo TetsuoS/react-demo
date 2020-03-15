@@ -12,6 +12,9 @@ https://www.evernote.com/l/AFO23idbWNxEY5BqtnMIp8KTNKCPnw8Yx6g
 参考：
 https://www.haneca.net/react-http-messaging/
 
+axiosの導入
+https://qiita.com/ksh-fthr/items/2daaaf3a15c4c11956e9
+
 
 
 
