@@ -2,6 +2,13 @@ Local:
 [t-saito@MacBookPronoMacBook-Pro dkm-test]$ pwd
 /Users/t-saito/dkm-test
 
+参考：
+ココナラ
+質問のやり取り
+https://www.evernote.com/l/AFO23idbWNxEY5BqtnMIp8KTNKCPnw8Yx6g
+
+
+
 
 
 
