@@ -18,6 +18,10 @@ https://qiita.com/ksh-fthr/items/2daaaf3a15c4c11956e9
 
 <h2>新たな課題(HTTP通信のエラー)</h2>
 https://www.evernote.com/l/AFP9WeakSudOrbCoqxwS9UmeIoXjW6vF-AU<br>
+<br>
+<br>
+<br>
+
 
 
 
