@@ -11,7 +11,7 @@ ReactDOM.render(
     document.getElementById('content')
 );
 
-const server = 'http://localhost:8000/api/sample';
+const server = 'http://localhost:8080/';
  
 class Greeting extends Component {
   constructor() {
