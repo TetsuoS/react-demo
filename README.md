@@ -21,6 +21,8 @@ https://www.evernote.com/l/AFP9WeakSudOrbCoqxwS9UmeIoXjW6vF-AU<br>
 <br>
 <br>
 <br>
+/api-server上で cookie-parserとmorganを導入。以下参照。
+https://www.evernote.com/l/AFNHCXnpQs5JBIx4rth70fNdhebwp8lrFUM
 
 
 
